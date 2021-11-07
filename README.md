@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Chugh</h1>
 
-<h3 align="center">A passionate frontend developer from India. On way to master web development</h3>
+<h3 align="center">A passionate Full Stack developer from India. On way to master web development</h3>
 
 
 - 🔭 I’m currently working on [Estudy](http://estudy-client.herokuapp.com/)
