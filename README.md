@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack developer from India. On way to master Programming</h3>
 
 
-- 🔭 I’m currently working on [Estudy](http://estudy-client.herokuapp.com/)
+- 🔭 I’m currently working on [Lavish](https://github.com/aayushchugh/lavish)
 
 - 🌱 I’m currently learning **Web Developmemt, App Development**
 
