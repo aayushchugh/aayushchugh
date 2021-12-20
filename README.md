@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack developer from India. On way to master Programming</h3>
 
 
-- 🔭 I’m currently working on [Lavish](https://github.com/aayushchugh/lavish)
+- 🔭 I’m currently working on [pizzeria](https://github.com/aayushchugh/pizzeria)
 
 - 🌱 I’m currently learning **Web Developmemt, App Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushchugh2006@gmail.com**
 
-- ⚡ Fun fact **I am 14 y/o**
+- ⚡ Fun fact **I am 15 y/o**
 
 
 <h1 align="center">Languages and Tools:</h3>
