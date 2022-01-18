@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack developer from India. On way to master Programming</h3>
 
 
-- 🔭 I’m currently working on [shriproperty](https://github.com/aayushchugh/shriproperty)
+- 🔭 I’m currently working on [shriproperty](https://shriproperty.com/)
 
 - 🌱 I’m currently learning **Web Developmemt, App Development**
 
