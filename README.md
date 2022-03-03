@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Developmemt, App Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aayushchugh](https://github.com/aayushchugh)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/aayushchugh?tab=repositories)
 
 - 💬 Ask me about **react, JavaScript, node.js, any other technical stuff**
 
