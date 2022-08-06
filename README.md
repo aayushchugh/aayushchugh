@@ -46,10 +46,15 @@ src="https://img.shields.io/github/followers/aayushchugh?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aayushchugh"><img src="https://github-readme-stats.vercel.app/api?username=aayushchugh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="aayushchugh's GitHub stats" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="http://www.github.com/aayushchugh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchugh&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=aayushchugh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="aayushchugh's GitHub stats" />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchugh&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</div>
+
+
 
 <a href="http://www.github.com/aayushchugh"><img src="https://activity-graph.herokuapp.com/graph?username=aayushchugh&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/aayushchugh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushchugh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
