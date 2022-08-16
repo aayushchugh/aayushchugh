@@ -9,7 +9,6 @@ A passionate Full Stack developer from India. On way to master Programming
 * 🌍  I'm based in Chandigarh
 * ✉️  You can contact me at [ayushchugh2006@gmail.com](mailto:ayushchugh2006@gmail.com)
 * 🚀  I'm currently working on [Shri Property](http://shriproperty.com)
-* 🧠  I'm learning typescript, react native
 * 🤝  I'm open to collaborating on MERN projects
 * ⚡  I am 15 year old
 
