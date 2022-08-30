@@ -1,10 +1,17 @@
+<div align="center">
+<img width="100%" height = "400px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
+</div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Chugh
 ===================================================================================================================================
 
-Full Stack Developer
-------------------------------------
 
 15 Year Old passionate Full Stack developer from India. On way to master Programming
+
+## About Me
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+
 
 * 🌍  I'm based in Chandigarh
 * ✉️  You can contact me at [ayushchugh2006@gmail.com](mailto:ayushchugh2006@gmail.com)
@@ -12,8 +19,7 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on MERN projects
 * ⚡  I am 15 year old
 
-<a href="https://www.github.com/aayushchugh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aayushchugh?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+<br>
 
 ### Skills
 
@@ -41,18 +47,16 @@ src="https://img.shields.io/github/followers/aayushchugh?logo=github&style=for-t
 
 <p align="left"> <a href="https://discord.com/users/Ayush Chugh#1679" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/aayushchugh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aayush_chugh11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ayushchugh2006" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### GitHub Stats
 
-<b>My GitHub Stats</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushchugh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aayushchugh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="aayushchugh's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aayushchugh&count_private=true&show_icons=true" alt="aayushchugh's GitHub stats" />
     
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchugh&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=aayushchugh&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
   </div>
 </div>
 
-<a href="http://www.github.com/aayushchugh"><img src="https://activity-graph.herokuapp.com/graph?username=aayushchugh&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/aayushchugh"><img src="https://activity-graph.herokuapp.com/graph?username=aayushchugh&theme=minimal" alt="GitHub Commits Graph" /></a>
