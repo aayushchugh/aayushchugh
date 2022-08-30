@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
-15 Year Old passionate Full Stack developer from India. On way to master Programming. I am head of development at @shriproperty
+15 Year Old passionate Full Stack developer from India. On way to master Programming. I am maintaner of @shriproperty
 and developed a github bot [Repository Commander](https://github.com/marketplace/shriproperty-bot)
 
 ## About Me
