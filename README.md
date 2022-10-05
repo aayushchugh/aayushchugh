@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
-15 Year Old passionate Full Stack developer from India. On way to master Programming. I am maintaner of @shriproperty
+15 Year Old passionate Full Stack developer from India. On way to master Programming. I am maintaner of [Shri Property](https://github.com/shriproperty), [Multi Email](https://github.com/multiemail
 and developed a github bot [Repository Commander](https://github.com/marketplace/shriproperty-bot)
 
 ## About Me
@@ -16,7 +16,7 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
 
 * 🌍  I'm based in Chandigarh
 * ✉️  You can contact me at [ayushchugh2006@gmail.com](mailto:ayushchugh2006@gmail.com)
-* 🚀  I'm currently working on [Shri Property](http://shriproperty.com) and [Repository Commander](https://github.com/marketplace/shriproperty-bot)
+* 🚀  I'm currently working on [Shri Property](http://shriproperty.com),[Repository Commander](https://github.com/marketplace/shriproperty-bot) and [Multi Email](https://github.com/multiemail)
 * 🤝  I'm open to collaborating on MERN projects
 * ⚡  I am 15 year old
 
