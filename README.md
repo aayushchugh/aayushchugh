@@ -18,7 +18,7 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
 * ✉️  You can contact me at [ayushchugh2006@gmail.com](mailto:ayushchugh2006@gmail.com)
 * 🚀  I'm currently working on [Shri Property](http://shriproperty.com),[Repository Commander](https://github.com/marketplace/shriproperty-bot) and [Multi Email](https://github.com/multiemail)
 * 🤝  I'm open to collaborating on MERN projects
-* ⚡  I am 15 year old
+* ⚡  I am 16 year old
 
 <br>
 
