@@ -56,7 +56,7 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
   <div style="display: flex;">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=aayushchugh&count_private=true&show_icons=true" alt="aayushchugh's GitHub stats" />
     
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=aayushchugh&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
+  <img width="400" src="https://streak-stats.demolab.com?user=aayushchugh&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
   </div>
 </div>
 
