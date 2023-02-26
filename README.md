@@ -59,5 +59,3 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
   <img width="401" src="https://streak-stats.demolab.com?user=aayushchugh&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
   </div>
 </div>
-
-<a href="http://www.github.com/aayushchugh"><img src="https://activity-graph.herokuapp.com/graph?username=aayushchugh&theme=minimal" alt="GitHub Commits Graph" /></a>
