@@ -15,7 +15,7 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
 
 
 * 🌍  I'm based in Chandigarh
-* ✉️  You can contact me at [contact@ayushchugh.me](mailto:contact@ayushchugh.me) or call me on `+91 9501852700`
+* ✉️  You can contact me at [contact@ayushchugh.me](mailto:contact@ayushchugh.me)
 * 🚀  I'm currently working on [Shri Property](http://shriproperty.com)
 * 🤝  I'm open to collaborating on MERN projects
 * ⚡  I am 16 year old
