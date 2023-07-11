@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
-Passionate Full Stack developer from India. On way to master Programming. I am maintaner of [Shri Property](https://github.com/shriproperty), [Multi Email](https://github.com/multiemail)
+Passionate Full Stack developer from India. On way to master Programming. I am maintaner of [Shri Property](https://github.com/shriproperty), [Maya](https://github.com/maya-manager)
 and developed a github bot [Repository Commander](https://github.com/marketplace/shriproperty-bot)
 
 ## About Me
