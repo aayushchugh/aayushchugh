@@ -16,9 +16,8 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
 
 * 🌍  I'm based in Chandigarh
 * ✉️  You can contact me at [contact@ayushchugh.me](mailto:contact@ayushchugh.me)
-* 🚀  I'm currently working on [Shri Property](http://shriproperty.com)
+* 🚀  I'm currently working on [Maya](https://github.com/maya-manager)
 * 🤝  I'm open to collaborating on MERN projects
-* ⚡  I am 16 year old
 
 <br>
 
