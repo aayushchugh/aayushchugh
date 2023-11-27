@@ -16,7 +16,7 @@ and developed a github bot [Repository Commander](https://github.com/marketplace
 
 * 🌍  I'm based in Chandigarh
 * ✉️  You can contact me at [aayush.chugh@icloud.com](mailto:aayush.chugh@icloud.com)
-* 🚀  I'm currently working on [Maya](https://github.com/maya-manager)
+* 🚀  I'm currently working on MyCCET (An internal management website for CCET Diploma Wing)
 * 🤝  I'm open to collaborating on MERN projects
 
 <br>
