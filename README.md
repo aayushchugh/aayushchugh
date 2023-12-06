@@ -40,6 +40,8 @@ Passionate Full Stack developer from India. On way to master Programming.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to start your journey as a web developer](https://medium.com/@ayushchugh2006/how-to-start-your-journey-as-web-developer-3c30208a6af4?source=rss-6cfed5c2abf1------2)
+- [How I started my journey in web development as 13 year old](https://medium.com/@ayushchugh2006/how-i-started-my-journey-in-web-development-as-13-year-old-b18f838af665?source=rss-6cfed5c2abf1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub Stats
