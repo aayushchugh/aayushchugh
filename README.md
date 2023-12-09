@@ -8,13 +8,7 @@ Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-* 🌍  I'm based in Mohali
-* ✉️  You can contact me at [biz@ayushchugh.me](mailto:biz@ayushchugh.me)
-* 🚀  I'm currently working on MyCCET (An internal management website for CCET Diploma Wing)
-* 🤝  I'm open to collaborating on MERN projects
+<img width="30%" align="right" alt="Github" src="./Group.png" />
 
 Hello! I am a Full Stack Web Developer from Mohali, India, driven by a passion for creating cutting-edge and user-centric digital solutions. My professional journey is adorned with diverse projects that reflect my expertise and innovative thinking.
 
@@ -29,6 +23,13 @@ Personal Interests:
 Outside of my professional life, I enjoy playing the guitar, which provides a creative and refreshing break from technology.
 
 I am committed to blending technical expertise with creativity in every project, ensuring functional, engaging, and user-centric outcomes. I look forward to embracing new challenges and opportunities in the ever-evolving field of web development.
+
+ ✉️  You can contact me at [biz@ayushchugh.me](mailto:biz@ayushchugh.me)
+ <br />
+ 🚀  I'm currently working on MyCCET (An internal management website for CCET Diploma Wing)
+ <br />
+ 🤝  I'm open to collaborating on MERN projects
+ <br />
 
 <br>
 
