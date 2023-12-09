@@ -8,7 +8,7 @@ Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
 
-<img width="30%" align="right" alt="Github" src="./Group.png" />
+<img width="35%" align="right" alt="Github" src="./Group.png" />
 
 Hello! I am a Full Stack Web Developer from Mohali, India, driven by a passion for creating cutting-edge and user-centric digital solutions. My professional journey is adorned with diverse projects that reflect my expertise and innovative thinking.
 
