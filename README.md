@@ -24,7 +24,7 @@ Outside of my professional life, I enjoy playing the guitar, which provides a cr
 
 I am committed to blending technical expertise with creativity in every project, ensuring functional, engaging, and user-centric outcomes. I look forward to embracing new challenges and opportunities in the ever-evolving field of web development.
 
- ✉️  You can contact me at [biz@ayushchugh.me](mailto:biz@ayushchugh.me)
+ ✉️  You can contact me at [biz@ayushchugh.com](mailto:biz@ayushchugh.com)
  <br />
  🚀  I'm currently working on MyCCET (An internal management website for CCET Diploma Wing)
  <br />
