@@ -3,12 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Chugh
 ===================================================================================================================================
 
-
 Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
 
-<img width="35%" align="right" alt="Github" src="./Group.png" />
+<img width="35%" align="right" alt="Github" src="https://github.com/aayushchugh/aayushchugh/assets/69336518/b1cfca33-1617-4c9c-8101-0b4e020361bb" />
 
 Hello! I am a Full Stack Web Developer from Mohali, India, driven by a passion for creating cutting-edge and user-centric digital solutions. My professional journey is adorned with diverse projects that reflect my expertise and innovative thinking.
 
@@ -26,9 +25,7 @@ I am committed to blending technical expertise with creativity in every project,
 
  ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com)
  <br />
- 🚀  I'm currently working on MyCCET (An internal management website for CCET Diploma Wing)
- <br />
- 🤝  I'm open to collaborating on MERN projects
+ 🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup)
  <br />
 
 <br>
