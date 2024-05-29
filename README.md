@@ -7,7 +7,7 @@ Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
 
-<img width="35%" align="right" alt="Github" src="./Group.png" />
+<img width="35%" align="right" src="https://github.com/aayushchugh/aayushchugh/assets/69336518/2ba1f1c7-67b0-4bbb-bd68-608250c32be1" />
 
 Hello! I am a Full Stack Web Developer from Mohali, India, driven by a passion for creating cutting-edge and user-centric digital solutions. My professional journey is adorned with diverse projects that reflect my expertise and innovative thinking.
 
