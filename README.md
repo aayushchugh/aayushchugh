@@ -1,4 +1,5 @@
 
+<img src="https://github.com/aayushchugh/aayushchugh/assets/69336518/e6736354-f6c6-4b84-b541-72ffc932814e" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Chugh
 ===================================================================================================================================
@@ -6,8 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
-
-<img width="35%" align="right" src="https://github.com/aayushchugh/aayushchugh/assets/69336518/2ba1f1c7-67b0-4bbb-bd68-608250c32be1" />
 
 Hello! I am a Full Stack Web Developer from Mohali, India, driven by a passion for creating cutting-edge and user-centric digital solutions. My professional journey is adorned with diverse projects that reflect my expertise and innovative thinking.
 
