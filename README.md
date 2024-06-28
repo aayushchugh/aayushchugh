@@ -24,6 +24,8 @@ I am committed to blending technical expertise with creativity in every project,
 
 Let’s get down to the fun stuff! I’m all about working on open-source projects and connecting with folks who geek out over the same things I do. There’s nothing like a good collab to spark some magic. One of my proudest achievements is creating a real estate website called [_Shriproperty_](https://shriproperty.com). It’s a sleek, user-friendly platform that helps people find their dream homes without the hassle. Then there’s [_A2INFINITE_](https://a2infinite.com), a fun little project where you can download practice worksheets for your kids. Who knew making education accessible could be so rewarding?
 
+Let’s make the web a more exciting place, one quirky line of code at a time!
+
  ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com) or book a [1:1](https://cal.com/aayushchugh/30min) session
  <br />
  🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup) and [worldtravelsonline.in](https://www.worldtravelsonline.in/en)
