@@ -8,25 +8,23 @@ Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
 
-Hello! I am a Full Stack Web Developer from Mohali, India, driven by a passion for creating cutting-edge and user-centric digital solutions. My professional journey is adorned with diverse projects that reflect my expertise and innovative thinking.
+Hey there! I’m a Full Stack Web Developer from Mohali, India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
 
-Leadership and Community Involvement:
+**Leadership and Community Involvement:**
 
-As Team Lead at the Innovation Club of CCET College, I have cultivated leadership skills and fostered a collaborative, innovative environment.
-I contribute as an assistant in ICT training sessions at my college, aiding in the technological development of government employees.
-Organizing the Talent Hunt cultural program has honed my event management skills.
-As a student coordinator, I work on the Jhalak (Digital newsletter of CCET, Diploma Wing)
+As the Team Lead at the Innovation Club of CCET College, I’ve learned how to lead a group without pulling my hair out. I also help out with _ICT_ training sessions at my college, where I teach government employees how to use computers without breaking them. I help in organising the Talent Hunt cultural program, which is basically a big, fun mess that my college somehow manages to pull together. Plus, I’m the student coordinator and design **_Jhalak_**, our college’s digital newsletter.
 
-Personal Interests:
-Outside of my professional life, I enjoy playing the guitar, which provides a creative and refreshing break from technology.
+
+**Personal Interests:**
+When I’m not glued to my computer screen, you’ll find me strumming my _guitar_. It’s my escape from the tech world, even if I’m not quite a rock star yet. Playing music helps me relax and keeps me from going crazy with all the coding.
 
 I am committed to blending technical expertise with creativity in every project, ensuring functional, engaging, and user-centric outcomes. I look forward to embracing new challenges and opportunities in the ever-evolving field of web development.
 
- ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com)
+ ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com) or book a [1:1](https://cal.com/aayushchugh/30min) session
  <br />
- 🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup)
+ 🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup) and [worldtravelsonline.in](https://www.worldtravelsonline.in/en)
  <br />
-
+ 💡I'm currently learning [swift](https://developer.apple.com/swift/)
 <br>
 
 ### Skills
