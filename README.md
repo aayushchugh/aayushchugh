@@ -16,6 +16,7 @@ As the Team Lead at the Innovation Club of CCET College, I’ve learned how to l
 
 
 **Personal Interests:**
+
 When I’m not glued to my computer screen, you’ll find me strumming my _guitar_. It’s my escape from the tech world, even if I’m not quite a rock star yet. Playing music helps me relax and keeps me from going crazy with all the coding.
 
 I am committed to blending technical expertise with creativity in every project, ensuring functional, engaging, and user-centric outcomes. I look forward to embracing new challenges and opportunities in the ever-evolving field of web development.
