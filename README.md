@@ -31,7 +31,7 @@ Let’s get down to the fun stuff! I’m all about working on open-source projec
  <br />
  🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup) and [worldtravelsonline.in](https://www.worldtravelsonline.in/en)
  <br />
- 💡I'm currently learning [swift](https://developer.apple.com/swift/)
+ 💡I'm currently learning web3
 <br>
 
 ### Skills
