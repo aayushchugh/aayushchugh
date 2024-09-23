@@ -48,8 +48,8 @@ Let’s get down to the fun stuff! I’m all about working on open-source projec
 
 ### Socials
 
-<p align="left"> <a href="https://twitter.com/ayushchugh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushchugh2006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushchugh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/aayushchugh_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushchugh_x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aayushchugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
 <a href="https://instagram.com/aayushchugh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushchugh_" height="30" width="40" /></a>
 <a href="https://medium.com/@ayushchugh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushchugh2006" height="30" width="40" /></a></p>
 
