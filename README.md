@@ -54,11 +54,7 @@ Let’s get down to the fun stuff! I’m all about working on open-source projec
 <a href="https://medium.com/@ayushchugh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushchugh2006" height="30" width="40" /></a></p>
 
 # Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to start your journey as a web developer](https://medium.com/@ayushchugh2006/how-to-start-your-journey-as-web-developer-3c30208a6af4?source=rss-6cfed5c2abf1------2)
-- [How I started my journey in web development as 13 year old](https://medium.com/@ayushchugh2006/how-i-started-my-journey-in-web-development-as-13-year-old-b18f838af665?source=rss-6cfed5c2abf1------2)
-<!-- BLOG-POST-LIST:END -->
+[ayushchugh.com/blog](https://ayushchugh.com/blog)
 
 ### GitHub Stats
 
