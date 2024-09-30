@@ -27,7 +27,7 @@ Let’s get down to the fun stuff! I’m all about working on open-source projec
 
 **Let’s make the web a more exciting place, one quirky line of code at a time!**
 
- ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com) or book a [1:1](https://cal.com/aayushchugh/30min) session
+ ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com) or book a [1:1](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ32m0Ha13-Djq7bDeqBFdEgjmkBLk3uIF9LGwK2eIrl1BGBVxBAhqnpYj7ealqSNG0JYpSUTikB?gv=true) session
  <br />
  🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup) and [worldtravelsonline.in](https://www.worldtravelsonline.in/en)
  <br />
