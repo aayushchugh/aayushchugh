@@ -8,22 +8,11 @@ Passionate Full Stack developer from India. On way to master Programming.
 
 ## About Me
 
-Hey there! I’m a Full Stack Web Developer from Mohali, India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
+Hey there! I’m a Freelance Full Stack Web Developer from Mohali, India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
 
-**Leadership and Community Involvement:**
+My job is to create user-friendly digital experiences, and I’ve worked on various projects that showcase my technical skills and creativity. Currently, I work as a Consultant at [Tap Invest](https://tapinvest.in/), where I contribute to creating seamless digital solutions. Alongside, I also work as a Freelance Developer with Vibranium Soft where we are building [World Travels](https://www.worldtravelsonline.in/en). In my free time, I contribute to open-source projects, keeping myself engaged in innovative collaborations.
 
-As the Team Lead at the Innovation Club of CCET College, I’ve learned how to lead a group without pulling my hair out. I also help out with _ICT_ training sessions at my college, where I teach government employees how to use computers without breaking them. I help in organising the Talent Hunt cultural program, which is basically a big, fun mess that my college somehow manages to pull together. Plus, I’m the student coordinator and design **_Jhalak_**, our college’s digital newsletter.
-
-
-**Personal Interests:**
-
-When I’m not glued to my computer screen, you’ll find me strumming my _guitar_. It’s my escape from the tech world, even if I’m not quite a rock star yet. Playing music helps me relax and keeps me from going crazy with all the coding.
-
-I am committed to blending technical expertise with creativity in every project, ensuring functional, engaging, and user-centric outcomes. I look forward to embracing new challenges and opportunities in the ever-evolving field of web development.
-
-**About my work**
-
-Let’s get down to the fun stuff! I’m all about working on open-source projects and connecting with folks who geek out over the same things I do. There’s nothing like a good collab to spark some magic. I also work as a freelancer, which gives me the freedom to tackle a variety of exciting projects. One of my proudest achievements is creating a real estate website called [_Shriproperty_](https://shriproperty.com). It’s a sleek, user-friendly platform that helps people find their dream homes without the hassle. Then there’s [_A2INFINITE_](https://a2infinite.com), a fun little project where you can download practice worksheets for your kids. Who knew making education accessible could be so rewarding?
+One of my proudest achievements is creating [ShriProperty](https://shriproperty.com/), a real estate website that simplifies finding a dream home. I also built [A2INFINITE](https://a2infinite.com), a platform for educational worksheets, making learning more accessible.
 
 **Let’s make the web a more exciting place, one quirky line of code at a time!**
 
