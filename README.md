@@ -10,17 +10,13 @@ Passionate Full Stack developer from India. On way to master Programming.
 
 Hey there! I’m a Freelance Full Stack Web Developer from Mohali, India, trying to make the internet a bit cooler one website at a time. My job is to create fancy, user-friendly digital stuff, and I’ve done a bunch of projects that show off my skills and creative ideas. Or at least, that’s what I tell people.
 
-My job is to create user-friendly digital experiences, and I’ve worked on various projects that showcase my technical skills and creativity. Currently, I work as a Consultant at [Tap Invest](https://tapinvest.in/), where I contribute to creating seamless digital solutions. Alongside, I also work as a Freelance Developer with Vibranium Soft where we are building [World Travels](https://www.worldtravelsonline.in/en). In my free time, I contribute to open-source projects, keeping myself engaged in innovative collaborations.
-
-One of my proudest achievements is creating [ShriProperty](https://shriproperty.com/), a real estate website that simplifies finding a dream home. I also built [A2INFINITE](https://a2infinite.com), a platform for educational worksheets, making learning more accessible.
-
 **Let’s make the web a more exciting place, one quirky line of code at a time!**
 
  ✉️  You can contact me at [hey@ayushchugh.com](mailto:hey@ayushchugh.com) or book a [1:1](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ32m0Ha13-Djq7bDeqBFdEgjmkBLk3uIF9LGwK2eIrl1BGBVxBAhqnpYj7ealqSNG0JYpSUTikB?gv=true) session
  <br />
- 🚀  I'm currently working on [Tap Invest](https://app.tapinvest.in/signup) and [worldtravelsonline.in](https://www.worldtravelsonline.in/en)
+ 🚀  I'm currently working on [worldtravelsonline.in](https://www.worldtravelsonline.in/en) and some open source projects
  <br />
- 💡I'm currently learning rust
+ 💡I'm currently learning Go
 <br>
 
 ### Skills
@@ -40,7 +36,6 @@ One of my proudest achievements is creating [ShriProperty](https://shriproperty.
 <p align="left"> <a href="https://twitter.com/aayushchugh_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushchugh_x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aayushchugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
 <a href="https://instagram.com/aayushchugh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushchugh_" height="30" width="40" /></a>
-<a href="https://medium.com/@ayushchugh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushchugh2006" height="30" width="40" /></a></p>
 
 # Blog posts
 [ayushchugh.com/blog](https://ayushchugh.com/blog)
