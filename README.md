@@ -31,12 +31,6 @@ Hey there! I’m a Freelance Full Stack Web Developer from Mohali, India, trying
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
 
-### Socials
-
-<p align="left"> <a href="https://twitter.com/aayushchugh_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushchugh_x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayushchugh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushchugh2006" height="30" width="40" /></a>
-<a href="https://instagram.com/aayushchugh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushchugh_" height="30" width="40" /></a>
-
 # Blog posts
 [ayushchugh.com/blog](https://ayushchugh.com/blog)
 
