@@ -1,5 +1,6 @@
 
-<img src="https://github.com/aayushchugh/aayushchugh/assets/69336518/e6736354-f6c6-4b84-b541-72ffc932814e" />
+<img width="1500" alt="banner-dark" src="https://github.com/user-attachments/assets/bd781ace-c409-4a5b-b76c-f045f3e9533a" />
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Chugh
 ===================================================================================================================================
