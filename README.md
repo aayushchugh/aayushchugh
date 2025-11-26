@@ -1,6 +1,5 @@
 
-<img width="1500" alt="banner-dark-x" src="https://github.com/user-attachments/assets/57710169-1048-48dc-bed3-4f7b68b2141e" />
-
+<img width="1500" height="500" alt="header" src="https://github.com/user-attachments/assets/e3bdc4df-5e85-40b5-8212-7cde3d7fd96d" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Chugh
 ===================================================================================================================================
